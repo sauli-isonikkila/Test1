@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Java EE - Demo 01</title>
+<title>Java EE - Demo 01 Muutettu</title>
 <link rel="stylesheet" type="text/css" href="styles/common.css">
 </head>
 <body>
